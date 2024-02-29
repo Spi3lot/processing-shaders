@@ -21,7 +21,6 @@ public class CubeExample extends PApplet {
         PApplet.main(CubeExample.class);
     }
 
-
     @Override
     public void settings() {
         size(640, 360, P3D);
